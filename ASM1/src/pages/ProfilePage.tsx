@@ -1,7 +1,7 @@
 import "../App.css"
 const ProfilePage = () => {
-    return <div><h2>ProfilePage</h2>
-      <div className="container">
+    return <div>
+      <div className="wrap">
   <div className="shape">
     <div className="image" />
   </div>
